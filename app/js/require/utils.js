@@ -152,6 +152,10 @@ module.exports = {
         "filename": "time",
         "enabled": true
       },
+      {
+        "filename": "window",
+        "enabled": true
+      },
     ]);
   },
 
